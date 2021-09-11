@@ -4,7 +4,9 @@
 
 ## Overview
 Analysis is done on the Covid-19 dataset.
+
 Linear Regression and Polynomial Regression models are created to predict the number of covid cases in the future.
+
 K-Fold Cross Validation is used to get generalized accuracy of the Linear regression model.
 
 ## Prerequisites
